@@ -30,9 +30,9 @@
 #include <QtDebug>
 
 #include "currencydemo.h"
-#include "currency\currencyinfodir.h"
-#include "currency\currencylabel.h"
-#include "currency\currencylineedit.h"
+#include "currency/currencyinfodir.h"
+#include "currency/currencylabel.h"
+#include "currency/currencylineedit.h"
 
 CurrencyDemo::CurrencyDemo(QWidget *parent)
     : QWidget(parent)
